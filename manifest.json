@@ -1,5 +1,5 @@
 {
-    "description": "This template was generated with the PowerShell Universal Template repository.",
-    "name": "PowerShell Universal Template",
-    "version": "1.0.1"
+    "description": "View databases, tables, users and data in your MS SQL server.",
+    "name": "Database Explorer",
+    "version": "1.0.0"
 }

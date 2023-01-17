@@ -1,0 +1,1 @@
+﻿New-PSUEnvironment -Name "Database" -Path "pwsh.exe" -Variables @('*')

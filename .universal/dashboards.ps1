@@ -1,0 +1,1 @@
+﻿New-PSUDashboard -Name "DatabaseExplorer" -FilePath "dashboards\database-explorer\database-explorer.ps1" -BaseUrl "/database-explorer" -Environment "Database" -Authenticated -AutoDeploy
