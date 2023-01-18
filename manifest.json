@@ -1,5 +1,6 @@
 {
     "description": "View databases, tables, users and data in your MS SQL server.",
     "name": "Database Explorer",
-    "version": "1.0.0"
+    "version": "1.0.1",
+    "variables": []
 }
